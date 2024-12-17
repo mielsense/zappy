@@ -1,0 +1,19 @@
+# personal files
+.idea
+cmake-build-debug
+cmake-build-debug/*
+zappy/gui/cmake-build-debug/*
+.DS_Store
+.clangd
+
+# project files
+debug/
+gui/build
+*.o
+imgui.ini
+
+# executables
+zappy_server
+zappy_gui
+zappy_ai
+ai/__pycache__
